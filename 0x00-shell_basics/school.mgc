@@ -1,2 +1,8 @@
 0 string SCHOOL School data
 !:mine School
+
+ZZ
+
+file -C -m school
+
+ls
