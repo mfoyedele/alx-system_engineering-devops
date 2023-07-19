@@ -1,4 +1,3 @@
-Host 54.209.3.190
+Host * 
     IdentityFile ~/.ssh/school
-    PreferredAuthentications publickey
     PasswordAuthentication no
